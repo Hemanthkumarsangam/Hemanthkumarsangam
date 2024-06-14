@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthkumarsangam" alt="hemanthkumarsangam" /></a> </p>
 
-- 🔭 I’m currently working on [BookLend - Library management system](book-lend.netlify.app)
+- 🔭 I’m currently working on <a href='book-lend.netlify.app'>BookLend - Library management system</a>
 
 - 🌱 I’m currently learning **fullstack, android development**
 
