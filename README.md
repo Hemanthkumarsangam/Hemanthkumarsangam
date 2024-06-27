@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthkumarsangam" alt="hemanthkumarsangam" /></a> </p>
 
-- 🌱 I’m currently learning **fullstack, android development**
+- 🌱 I’m currently learning **Fullstack, Android development**
 
-- 👯 I’m looking to collaborate on **full stack projects**
+- 👯 I’m looking to collaborate on **Full stack projects**
 
-- 🤝 I’m looking for help with **cloud computing**
+- 🤝 I’m looking for help with **Cloud Computing**
 
 - 💬 Ask me about **DSA, DBMS**
 
