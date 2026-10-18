@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthkumarsangam" alt="hemanthkumarsangam" /></a> </p>
 
-- 🌱 I’m currently learning **Fullstack, Android development**
+- 🌱 I’m currently learning **Android development**
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
